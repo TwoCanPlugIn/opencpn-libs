@@ -18,6 +18,7 @@ SET(SRC
     src/response.cpp
     src/RMB.hpp
     src/rmb.cpp
+    src/rpm.cpp
     src/Sentence.hpp
     src/sentence.cpp
     src/talkerid.cpp
@@ -62,6 +63,7 @@ SET(SRC
     src/mda.hpp
     src/mtw.hpp
     src/rsa.hpp
+    src/rpm.hpp
     src/vhw.hpp
     src/vlw.hpp
     src/vwr.hpp

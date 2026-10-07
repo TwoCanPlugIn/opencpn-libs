@@ -109,6 +109,7 @@
 #include "mta.hpp"
 #include "mda.hpp"
 #include "mtw.hpp"
+#include "rpm.hpp"
 #include "rsa.hpp"
 #include "vhw.hpp"
 #include "vlw.hpp"
@@ -212,6 +213,7 @@ class NMEA0183
        HDT Hdt;
        RMB Rmb;
        RMC Rmc;
+	   RPM Rpm;
        WPL Wpl;
        RTE Rte;
        GLL Gll;
